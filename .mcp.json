@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "exit-guide": {
+      "type": "http",
+      "url": "https://quietmachines.fyi/mcp"
+    }
+  }
+}

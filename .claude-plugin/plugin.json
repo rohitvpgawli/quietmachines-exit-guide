@@ -1,0 +1,21 @@
+{
+  "name": "exit-guide",
+  "version": "1.0.0",
+  "description": "Find the paid subscriptions on your Mac and get sourced free, included and buy-once alternatives from the Quiet Machines exit guide. Matching happens on your Mac.",
+  "author": {
+    "name": "Quiet Machines",
+    "url": "https://quietmachines.fyi"
+  },
+  "homepage": "https://quietmachines.fyi/guide",
+  "privacyPolicyUrl": "https://quietmachines.fyi/privacy",
+  "repository": "https://github.com/rohitvpgawli/quietmachines-exit-guide",
+  "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
+  "keywords": [
+    "subscriptions",
+    "alternatives",
+    "mac",
+    "privacy",
+    "savings"
+  ]
+}

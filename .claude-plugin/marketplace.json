@@ -1,0 +1,11 @@
+{
+  "name": "quietmachines",
+  "owner": { "name": "Quiet Machines", "url": "https://quietmachines.fyi" },
+  "plugins": [
+    {
+      "name": "exit-guide",
+      "source": "./",
+      "description": "Find the paid subscriptions on your Mac and get sourced free, included and buy-once alternatives."
+    }
+  ]
+}
