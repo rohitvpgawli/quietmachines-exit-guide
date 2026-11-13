@@ -1,0 +1,33 @@
+{
+  "name": "exit-guide",
+  "version": "1.1.0",
+  "description": "Replace paid apps and subscriptions with sourced free, included, buy-once and self-hosted alternatives from the Quiet Machines exit guide. Matching happens on your Mac.",
+  "author": {
+    "name": "Quiet Machines",
+    "url": "https://quietmachines.fyi"
+  },
+  "homepage": "https://quietmachines.fyi/guide",
+  "repository": "https://github.com/rohitvpgawli/quietmachines-exit-guide",
+  "license": "MIT",
+  "keywords": ["subscriptions", "alternatives", "replace", "cancel", "mac", "privacy", "savings"],
+  "skills": "./skills/",
+  "mcpServers": "./.codex-mcp.json",
+  "interface": {
+    "displayName": "Exit guide",
+    "shortDescription": "Find a way out of paid subscriptions",
+    "longDescription": "Ask what you can replace an app with, or let Codex find the paid apps on your Mac and build an exit plan: free, included, buy-once and self-hosted alternatives with their real cost, the catch, and switching steps, from quietmachines.fyi/guide. Your app list never leaves your Mac.",
+    "developerName": "Quiet Machines",
+    "category": "Productivity",
+    "capabilities": ["Read"],
+    "websiteURL": "https://quietmachines.fyi/guide",
+    "privacyPolicyURL": "https://quietmachines.fyi/privacy",
+    "logo": "./.claude-plugin/icon.png",
+    "composerIcon": "./.claude-plugin/icon.png",
+    "defaultPrompt": [
+      "What can I replace Wispr Flow with?",
+      "Which of my subscriptions can I replace with something I pay for once?",
+      "Find a free alternative to Adobe Acrobat"
+    ],
+    "brandColor": "#1F1F1C"
+  }
+}

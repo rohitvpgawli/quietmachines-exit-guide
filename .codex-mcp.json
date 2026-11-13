@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "exit-guide": {
+      "url": "https://quietmachines.fyi/mcp",
+      "omit_tools_from": ["deferred"]
+    }
+  }
+}

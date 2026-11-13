@@ -1,7 +1,7 @@
 {
   "name": "exit-guide",
-  "version": "1.0.0",
-  "description": "Find the paid subscriptions on your Mac and get sourced free, included and buy-once alternatives from the Quiet Machines exit guide. Matching happens on your Mac.",
+  "version": "1.1.0",
+  "description": "Replace paid apps and subscriptions with sourced free, included, buy-once and self-hosted alternatives from the Quiet Machines exit guide. Ask about one app, or find the paid apps on your Mac. Matching happens on your Mac.",
   "author": {
     "name": "Quiet Machines",
     "url": "https://quietmachines.fyi"
